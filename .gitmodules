@@ -1,3 +1,6 @@
 [submodule "baseimage-docker"]
 	path = phusion-baseimage-docker
 	url = https://github.com/phusion/baseimage-docker.git
+[submodule "graylog2-images"]
+	path = graylog2-images
+	url = https://github.com/Graylog2/graylog2-images.git

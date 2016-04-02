@@ -8,7 +8,7 @@ This repository contains a Docker Image meant to run Graylog2 on Heroku
 
 This is achieved by creating an Docker image based on [`heroku/cedar`](https://hub.docker.com/r/heroku/cedar/)[<sup>[1]</sup>](https://github.com/heroku/stack-images) which combines the content of the [`phusion/baseimage`](https://hub.docker.com/r/phusion/baseimage/)[<sup>[2]</sup>](https://github.com/phusion/baseimage-docker/tree/master/image) and [`graylog2/allinone`](https://hub.docker.com/r/graylog2/allinone/)[<sup>[3]</sup>](https://github.com/Graylog2/graylog2-images/tree/master/docker) images.
 
-The result is [an image that is compatible with the Heroku Docker images](https://hub.docker.com/r/potherca/graylog2-heroku/) and can be run on Heroku using heroku-docker."
+The result is [an image that is compatible with the Heroku Docker images](https://hub.docker.com/r/potherca/graylog2-heroku/) and can be run on Heroku using heroku-docker.
 
 ## Usage
 
@@ -24,4 +24,4 @@ Details on deploying to Heroku are available in [the "Build and Deploy with Dock
 
 ## License
 
-This project has been licensed under the GNU General Public License v3.0 (GPLv3). Please see the [License File](LICENSE) for more information.
+The Source Code for this project is [available on github.com](https://github.com/Potherca/graylog2-heroku-docker-image) under the GNU General Public License v3.0 (GPLv3) – Created by [Potherca](http://pother.ca/)

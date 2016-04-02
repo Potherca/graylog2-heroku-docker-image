@@ -24,4 +24,4 @@ Details on deploying to Heroku are available in [the "Build and Deploy with Dock
 
 ## License
 
-The Source Code for this project is [available on github.com](https://github.com/Potherca/graylog2-heroku-docker-image) under the GNU General Public License v3.0 (GPLv3) – Created by [Potherca](http://pother.ca/)
+The Source Code for this project is [available on github.com](https://github.com/Potherca/graylog2-heroku-docker-image) under [the GNU General Public License v3.0](LICENSE) (GPLv3) – Created by [Potherca](http://pother.ca/)

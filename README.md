@@ -1,6 +1,6 @@
 # Docker Image for running Graylog2 on Heroku
 
-![](graylog2-docker-heroku-logo.png)
+![graylog2-docker-heroku-logo](https://raw.githubusercontent.com/Potherca/graylog2-heroku-docker-image/master/graylog2-docker-heroku-logo.png)
 
 This repository contains a Docker Image meant to run Graylog2 on Heroku
 
